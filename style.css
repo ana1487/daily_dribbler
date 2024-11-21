@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+.img-a {
+    width: 400px;
+    border: 2px solid black;
+}
+
+.para1 {
+    width: 400px;
+    display: block;
+    margin: 15px auto;
+    text-align: left;
+}
+
+#search-box {
+    width: 170px;
+    font-size: 15px;
+    padding: 4px 12px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+    margin-top: 15px;
+    padding: 10px 25px;
+    width: 225px;
+}
